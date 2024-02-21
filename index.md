@@ -55,12 +55,13 @@
     <meta name="apple-mobile-web-app-title" content="mobile-app-landingpage-template">
     <link rel="icon" type="image/png" href="icon.webp">
     <link rel="apple-touch-startup-image" href="1.webp">
+    <link href="/app.css" rel="stylesheet">
 </head>
 <body>
 <main>
     <header class="app__header container">
-        <div class="app__logo-wrapper">
-            <img class="app__logo" src="https://pipyoutube.github.io/icon.webp" alt="Float Tube Icon" width="100" height="100">
+        <div class="app__logo1-wrapper">
+            <img class="app__logo1" src="https://pipyoutube.github.io/icon.webp" alt="Float Tube Icon" width="80" height="80">
         </div>
         <div class="app__infos">
             <h1 class="app__name">Float Tube</h1>
