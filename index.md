@@ -64,8 +64,10 @@
             <img class="app__logo1" src="https://pipyoutube.github.io/icon.webp" alt="Float Tube Icon" width="80" height="80">
         </div>
         <br>
+        <br>
+        <br>
         <div class="app__infos1">
-            <h1 class="app__name">Float Tube</h1>
+            <h2 class="app__name">Float Tube</h2>
             <p class="app__description">A cool app that Lets you watch YouTube Floating windows</p>
         </div>
     </header>
