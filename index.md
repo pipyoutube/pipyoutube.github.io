@@ -69,7 +69,7 @@
         </div>
     </header>
     <div class="app__buttons app__buttons--mobile container">
-        <a href="https://play.google.com/store/apps/details?id=com.k.video.tube" class="app__button-play" target="_blank"><img src="ios-download.webp" alt="Get on App Store" width="110" height="38"></a>    
+        <a href="https://play.google.com/store/apps/details?id=com.k.video.tube" class="app__button-play" target="_blank"><img src="ios-download.webp" alt="Get on App Store" width="110" height="40"></a>    
         <a href="https://play.google.com/store/apps/details?id=com.k.video.tube" class="app__button-play" target="_blank"><img src="android-download.webp" alt="Get on Google Play" width="110" height="38"></a>
     </div>
     <section class="app__screenshots app__section">
