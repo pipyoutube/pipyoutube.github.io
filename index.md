@@ -107,13 +107,14 @@
 <footer class="footer">
     <div class="container">
         <div class="footer__container">
-            <p class="footer__love">This website is owned and operated by Yufei Gao.</p>
             <ul class="footer__links">
-                <li class="footer__link"><a href="https://pipyoutube.github.io/tube_privacy.html" target="_blank">Privacy</a></li>
+                <li class="footer__link"><a href="https://pipyoutube.github.io/PrivacyPolicy.html" target="_blank">Privacy</a></li>
+            </ul>
+            <ul class="footer__links">
+                <li class="footer__link"><a href="https://pipyoutube.github.io/EULA.html" target="_blank">EULA</a></li>
             </ul>
         </div>
     </div>
 </footer>
-<script src="/assets/app.bundle.js"></script>
 </body>
 </html>
