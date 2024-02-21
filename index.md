@@ -46,12 +46,6 @@
             "@context": "http://schema.org"
         }
     </script>
-    <style>
-    /* 设置链接的字体颜色为红色 */
-    a {
-        color: red;
-    }
-    </style>
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="theme-color" content="#fff">
     <meta name="application-name" content="mobile-app-landingpage-template">
@@ -61,7 +55,6 @@
     <meta name="apple-mobile-web-app-title" content="mobile-app-landingpage-template">
     <link rel="icon" type="image/png" href="icon.webp">
     <link rel="apple-touch-startup-image" href="1.webp">
-    <link href="/app.css" rel="stylesheet">
 </head>
 <body>
 <main>
