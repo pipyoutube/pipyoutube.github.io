@@ -46,6 +46,12 @@
             "@context": "http://schema.org"
         }
     </script>
+    <style>
+    /* 设置链接的字体颜色为红色 */
+    a {
+        color: red;
+    }
+    </style>
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="theme-color" content="#fff">
     <meta name="application-name" content="mobile-app-landingpage-template">
