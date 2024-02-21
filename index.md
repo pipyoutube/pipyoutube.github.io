@@ -30,7 +30,7 @@
             "@type": "Organization",
             "logo": {
                 "@type": "ImageObject",
-                "url": "http://localhost:4000/assets/images/large-logo.png"
+                "url": "icon.webp"
             },
         },
         "name": "Float Tube",
