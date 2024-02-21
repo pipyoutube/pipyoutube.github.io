@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -67,18 +66,11 @@
         <div class="app__infos">
             <h1 class="app__name">Float Tube</h1>
             <p class="app__description">A cool app that Lets you watch YouTube Floating windows</p>
-<!--             <div class="app__buttons app__buttons--desktop">
-                <a href="https://play.google.com/store/apps/details?id=com.k.video.tube" class="app__button-play" target="_blank"><img src="ios-download.webp" alt="Get on App Store"></a>
-
-                <a href="https://play.google.com/store/apps/details?id=com.k.video.tube" class="app__button-play" target="_blank"><img src="android-download.webp" alt="Get on Google Play"></a>
-            </div> -->
         </div>
     </header>
     <div class="app__buttons app__buttons--mobile container">
         <a href="https://play.google.com/store/apps/details?id=com.k.video.tube" class="app__button-play" target="_blank"><img src="ios-download.webp" alt="Get on App Store" width="100" height="38"></a>    
-    </div>
-    <div class="app__buttons app__buttons--mobile container">
-        <a href="https://play.google.com/store/apps/details?id=com.k.video.tube" class="app__button-play" target="_blank"><img src="android-download.webp" alt="Get on Google Play" width="100" height="38"></a>
+        <a href="https://play.google.com/store/apps/details?id=com.k.video.tube" class="app__button-play" target="_blank"><img src="android-download.webp" alt="Get on Google Play" width="100" height="40"></a>
     </div>
     <section class="app__screenshots app__section">
         <div class="container">
