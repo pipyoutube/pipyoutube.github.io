@@ -107,11 +107,12 @@
 <footer class="footer">
     <div class="container">
         <div class="footer__container">
-            <ul class="footer__links">
-                <li class="footer__link"><a href="https://pipyoutube.github.io/PrivacyPolicy.html" target="_blank">Privacy</a></li>
+            <ul >
+                <li class="footer__link1"><a href="https://pipyoutube.github.io/PrivacyPolicy.html" target="_blank">Privacy</a></li>
+                <br>
+                <li class="footer__link1"><a href="https://pipyoutube.github.io/EULA.html" target="_blank">EULA</a></li>
             </ul>
-            <ul class="footer__links">
-                <li class="footer__link"><a href="https://pipyoutube.github.io/EULA.html" target="_blank">EULA</a></li>
+            <ul >
             </ul>
         </div>
     </div>
