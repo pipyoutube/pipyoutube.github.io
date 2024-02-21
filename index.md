@@ -8,13 +8,13 @@
     <meta name="theme-color" content="#efeeff">
     <meta name="msapplication-navbutton-color" content="#efeeff">
     <meta name="apple-mobile-web-app-status-bar-style" content="#efeeff">
-    <meta property="og:image" content="https://pipyoutube.github.io/assets/images/large-logo.png">
+    <meta property="og:image" content="https://pipyoutube.github.io/icon.webp">
     <link rel="alternate" type="application/rss+xml" title="Float Tube" href="/feed.xml">
     <link href="https://fonts.googleapis.com/css?family=Heebo:900" rel="stylesheet">
     <title>Float Tube | Float Tube is a very cool app that Lets you watch Tube Floating windows</title>
     <meta name="generator" content="Jekyll v3.5.0"/>
     <meta property="og:title" content="Float Tube">
-    <meta name="author" content="Ruffy">
+    <meta name="author" content="Kay">
     <meta property="og:locale" content="en_US"/>
     <meta name="description" content="Float Tube is a very cool app that Lets you watch Tube Floating windows">
     <meta property="og:description" content="Float Tube is a very cool app that Lets you watch Tube Floating windows">
@@ -23,7 +23,7 @@
     <meta property="og:site_name" content="Float Tube">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@">
-    <meta name="twitter:creator" content="@Ruffy">
+    <meta name="twitter:creator" content="@Kay">
     <script type="application/ld+json">
         {
             "url": "https://pipyoutube.github.io/",
@@ -33,12 +33,12 @@
                     "@type": "ImageObject",
                     "url": "https://pipyoutube.github.io/icon.webp"
                 },
-                "name": "Ruffy"
+                "name": "Kay"
             },
             "name": "Float Tube",
             "author": {
                 "@type": "Person",
-                "name": "Ruffy"
+                "name": "Kay"
             },
             "headline": "Float Tube",
             "sameAs": [null],
@@ -50,15 +50,15 @@
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="theme-color" content="#fff">
     <meta name="application-name" content="mobile-app-landingpage-template">
-    <link rel="apple-touch-icon" sizes="57x57" href="/assets/icons-297729cc8e943a64e9e7dbf11d0d81b0/apple-touch-icon-57x57.png">
+<!--     <link rel="apple-touch-icon" sizes="57x57" href="/assets/icons-297729cc8e943a64e9e7dbf11d0d81b0/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/assets/icons-297729cc8e943a64e9e7dbf11d0d81b0/apple-touch-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/assets/icons-297729cc8e943a64e9e7dbf11d0d81b0/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="76x76" href="/assets/icons-297729cc8e943a64e9e7dbf11d0d81b0/apple-touch-icon-76x76.png">
     <link rel="apple-touch-icon" sizes="114x114" href="/assets/icons-297729cc8e943a64e9e7dbf11d0d81b0/apple-touch-icon-114x114.png">
     <link rel="apple-touch-icon" sizes="120x120" href="/assets/icons-297729cc8e943a64e9e7dbf11d0d81b0/apple-touch-icon-120x120.png">
     <link rel="apple-touch-icon" sizes="144x144" href="/assets/icons-297729cc8e943a64e9e7dbf11d0d81b0/apple-touch-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/assets/icons-297729cc8e943a64e9e7dbf11d0d81b0/apple-touch-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons-297729cc8e943a64e9e7dbf11d0d81b0/apple-touch-icon-180x180.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/assets/icons-297729cc8e943a64e9e7dbf11d0d81b0/apple-touch-icon-152x152.png"> -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/icon.webp">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="apple-mobile-web-app-title" content="mobile-app-landingpage-template">
