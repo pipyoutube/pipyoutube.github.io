@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -88,14 +87,12 @@
 	<p>- Well design to optimize your viewing experience</p>
 </div>
 
-<footer class="footer">
-    <div >
-        <ul >
-            <li><a href="https://pipyoutube.github.io/PrivacyPolicy.html" target="_blank">Privacy</a></li>
-            <br>
-            <li><a href="https://pipyoutube.github.io/EULA.html" target="_blank">EULA</a></li>
-        </ul>
-    </div>
-</footer>
+<div >
+    <ul >
+        <li><a href="https://pipyoutube.github.io/PrivacyPolicy.html" target="_blank">Privacy</a></li>
+        <br>
+        <li><a href="https://pipyoutube.github.io/EULA.html" target="_blank">EULA</a></li>
+    </ul>
+</div>
 </body>
 </html>
