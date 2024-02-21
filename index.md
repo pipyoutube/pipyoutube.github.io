@@ -61,7 +61,7 @@
 <main>
     <header class="app__header container">
         <div class="app__logo-wrapper">
-            <img class="app__logo" src="icon.webp" alt="Float Tube Icon" width="100" height="100">
+            <img class="app__logo" src="https://pipyoutube.github.io/icon.webp" alt="Float Tube Icon" width="100" height="100">
         </div>
         <div class="app__infos">
             <h1 class="app__name">Float Tube</h1>
@@ -78,16 +78,16 @@
         </div>
         <div class="app__screenshots-wrapper container-desktop">
             <div class="app__screenshots-list">
-                <a href="/assets/images/screenshots/1.webp" class="lightbox">
+                <a href="3.webp" class="lightbox">
                     <img src="3.webp" class="app__screenshot">
                 </a>
-                <a href="/assets/images/screenshots/2.webp" class="lightbox">
+                <a href="2.webp" class="lightbox">
                     <img src="2.webp" class="app__screenshot">
                 </a>
-                <a href="/assets/images/screenshots/3.webp" class="lightbox">
+                <a href="1.webp" class="lightbox">
                     <img src="/1.webp" class="app__screenshot">
                 </a>
-                <a href="/assets/images/screenshots/4.webp" class="lightbox">
+                <a href="4.webp" class="lightbox">
                     <img src="4.webp" class="app__screenshot">
                 </a>
             </div>
@@ -106,13 +106,11 @@
 </main>
 <footer class="footer">
     <div class="container">
-        <div class="footer__container">
+        <div >
             <ul >
-                <li class="footer__link1"><a href="https://pipyoutube.github.io/PrivacyPolicy.html" target="_blank">Privacy</a></li>
+                <li><a href="https://pipyoutube.github.io/PrivacyPolicy.html" target="_blank">Privacy</a></li>
                 <br>
-                <li class="footer__link1"><a href="https://pipyoutube.github.io/EULA.html" target="_blank">EULA</a></li>
-            </ul>
-            <ul >
+                <li><a href="https://pipyoutube.github.io/EULA.html" target="_blank">EULA</a></li>
             </ul>
         </div>
     </div>
