@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -17,12 +18,9 @@
     <meta property="og:locale" content="en_US"/>
     <meta name="description" content="Float Tube is a very cool app that Lets you watch Tube Floating windows"/>
     <meta property="og:description" content="Float Tube is a very cool app that Lets you watch Tube Floating windows"/>
-    <link rel="canonical" href="http://localhost:4000/">
-    <meta property="og:url" content="http://localhost:4000/">
+    <link rel="canonical" href="https://pipyoutube.github.io//">
+    <meta property="og:url" content="https://pipyoutube.github.io//">
     <meta property="og:site_name" content="Float Tube">
-    <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:site" content="@"/>
-    <meta name="twitter:creator" content="@Ruffy"/>
     <script type="application/ld+json">
     {
         "url": "https://pipyoutube.github.io/",
@@ -30,7 +28,7 @@
             "@type": "Organization",
             "logo": {
                 "@type": "ImageObject",
-                "url": "icon.webp"
+                "url": "https://pipyoutube.github.io/icon.webp"
             },
         },
         "name": "Float Tube",
@@ -49,7 +47,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons-297729cc8e943a64e9e7dbf11d0d81b0/favicon-32x32.png">
     <!-- 此处省略其他 favicon 的设置 -->
     <link rel="shortcut icon" href="/assets/icons-297729cc8e943a64e9e7dbf11d0d81b0/favicon.ico">
-    <link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" href="/assets/icons-297729cc8e943a64e9e7dbf11d0d81b0/apple-touch-startup-image-320x460.png">
+    <link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" href="1.webp">
     <!-- 此处省略其他 apple-touch-startup-image 的设置 -->
     <link href="/assets/app.css" rel="stylesheet">
 </head>
@@ -57,21 +55,29 @@
 <main>
     <header class="app__header container">
         <div class="app__logo-wrapper">
-            <img class="app__logo" src="/assets/images/appicon.png" alt="Float Tube Icon">
+            <img class="app__logo" src="icon.webp" alt="Float Tube Icon">
         </div>
         <div class="app__infos">
             <h1 class="app__name">Float Tube</h1>
             <p class="app__description">A cool app that Lets you watch YouTube Floating windows</p>
-            <div class="app__buttons app__buttons--desktop">
+<!--             <div class="app__buttons app__buttons--desktop">
                 <a href="https://apps.apple.com/us/app/id6474012067" class="app__button-play" target="_blank">
                     <img src="/ios-download.webp" alt="Get on App Store">
                 </a>
                 <a href="https://play.google.com/store/apps/details?id=com.k.video.tube" class="app__button-play" target="_blank">
                     <img src="/android-download.webp" alt="Get on Google Play">
                 </a>
-            </div> 
+            </div> -->
         </div>
     </header>
+    <div class="app__buttons app__buttons--mobile container">
+        <a href="https://apps.apple.com/us/app/id6474012067" class="app__button-play" target="_blank">
+            <img src="/ios-download.webp" alt="Get on App Store">
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=com.k.video.tube" class="app__button-play" target="_blank">
+            <img src="/android-download.webp" alt="Get on Google Play">
+        </a>
+    </div>
     <section class="app__screenshots app__section">
         <div class="container">
             <h2 class="app__section-title">Screenshots</h2>
@@ -90,7 +96,6 @@
                 <a href="/4.webp" class="lightbox">
                     <img src="4.webp" class="app__screenshot">
                 </a>
-                <!-- 此处省略其他截图的设置 -->
             </div>
         </div>
     </section>
